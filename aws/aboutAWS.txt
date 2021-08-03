@@ -1,0 +1,7 @@
+AWS:  Amazon web Services, é uma plataforma segura que oferece um amplo conjunto de produtos globais baseados na nuvem.
+
+A aws fornece flexibilidade.
+
+
+
+  
