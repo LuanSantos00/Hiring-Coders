@@ -1,0 +1,43 @@
+DEVOPS:  DESENVOLVIMENTO E OPERAÇÕES.
+
+o que é DeVops: é uma abordagem de cultura, automação e design de plataformas que tem como objetivo agregar mais valor aos negócios e aumentar sua capacidade de resposta às mudanças por meio de entregas de serviçoes rápidas e de alta qualidade.
+
+Dev: Planejamento e desenvolvimento, abordando fases de verificação, testes e entrega do sistema;
+
+Ops: Operação e infraestrutura, contempla a distribuição para o ambiente de produção, configuração, suporte, monitoramente e feedabcks.
+
+DeVops não é um FRAMEWORK, PRODUTO, FERRAMENTA e nem uma TECNOLOGIA!
+
+Pontos Obrigatórios de DeVops: 
+ - Colaboração entre as equipes de Dev e OPS
+ - Ciclos de entregas rápidas
+ - Desenvolvimento Ágil
+ - Integração e Entrega Contínua
+ - Gerenciamento de Configuração de Softwares (GCS)
+ - Centralização de Logs
+ - Monitoramento e coleta de dados e métricas
+ - Infraestrutura escalável e automatizada
+
+Empresas que adotam a cultura DeVops:
+ - Google
+ - Amazon
+ - Github
+ - Netflix
+ - Facebok 
+
+O conceito DeVops:
+ - O DeVops tem haver com pessoas e sua capacidade de se relacionarem e trocatem experiências.
+
+CAMS: Cultura, Automação, Monitoramento, Compartilhamento
+
+Ciclo de Desenvolvimento DeVops são divididos em cinco fases:
+ - Desenvolvimento
+ - Teste
+ - Integração
+ - Deploy
+ - Monitoramento
+
+
+
+
+
